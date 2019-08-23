@@ -1,0 +1,34 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 5%;
+  color: DimGray;
+}
+
+h1 {
+  color: #4E92DF;
+}
+
+h2 {
+  color: #B40404;
+}
+
+.logo{
+  text-align: left;
+  width: 48vw;
+}
+
+.main{
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+
+.left, .right{
+  wight = 46vw;
+}
+
+img{
+  height : 40vh;
+  width : auto;
+  margin : 3vh 0;
+}
